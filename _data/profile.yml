@@ -1,0 +1,57 @@
+primary_name: "He Wang"
+secondary_name: "王赫"
+navbar_name: "He Wang"
+
+positions:
+- name: Undergraduate Student in Electronic Engineering
+- name: University College London
+  link: https://www.ucl.ac.uk
+  logo: /assets/images/badges/LogoUCL.png  # Logo is optional
+
+
+email: "he.wang.25@ucl.ac.uk"
+# cv_link: link-to-your-cv-file
+#gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: He-seri-Wang
+twitter: he080414  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: he-wang-414628321
+orcid: 0009-0001-7774-8880
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    My research interests include AI4S and Computer Vision, and my current research focus is on <strong>Remote Sensing</strong> and <strong>CV for Meteorology</strong>.
+  </p>
+
+portrait_url: /assets/images/photos/profile.jpg
+portrait_caption: >-
+  A CD cover photo.
+
+education:
+- name: University College London
+  logo: /assets/images/badges/UCLold.png
+  position: >- 
+    Department of Electronic and Electrical Engineering <br/>
+    B.Eng in Electronic and Electrical Engineering
+  date: Sep. 2025 - present
+- name: The Affiliated High School of South China Normal University
+  logo: /assets/images/badges/HF.png
+  position: High School Diploma, Middle School Diploma
+  date: Sep. 2020 - Jul. 2026
+
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
+
+awards:
+- name: Global Experience Bursary 2025/26
+  date: 2026
+- name: Zhong Nanshan Scholarship
+  date: 2023
+- name: E-Fund Scholarship
+  date: 2022
